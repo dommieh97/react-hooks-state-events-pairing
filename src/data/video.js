@@ -1,7 +1,7 @@
 const video = {
   id: 1,
-  title: "React Today and Tomorrow and 90% Cleaner React With Hooks",
-  embedUrl: "https://www.youtube.com/embed/dpw9EHDh2bM",
+  title: "Gen Hoshino - Comedy (Official Video)",
+  embedUrl:"https://www.youtube.com/watch?v=K1SAtJ8QIcc",
   views: 730707,
   createdAt: "Oct 26, 2018",
   upvotes: 9210,
